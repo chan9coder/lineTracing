@@ -112,7 +112,8 @@ Sensor Input → Arduino → Motor Driver → Motor Control
 ## 📷 Demo / Images
 
 (여기에 로봇 사진 or 영상 넣으면 완성도 확 올라감)
-
+# Video
+https://www.youtube.com/watch?v=Iflqe6Bg7Ws
 ---
 
 ## 📁 Repository Structure
